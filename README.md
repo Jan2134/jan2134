@@ -24,36 +24,37 @@ Below are selected repositories.
 <tr>
 <td width="50%">
 
-**📊 Project Name #1**  
-Short description placeholder.  
+**📊 Google_Docs_AI_Helper**  
+A Streamlit app that connects to your Google Docs, runs your text through a large language model for writing feedback, and layers on a suite of local analytics, all without leaving your browser.
 
-🔗 [Repository Link](https://github.com/jan2134/repo1)
+
+🔗 [Repository Link](https://github.com/Jan2134/Google_Docs_AI_Helper)
 
 </td>
 <td width="50%">
 
-**🚀 Project Name #2**  
-Short description placeholder.  
+**🚀 MyPremiumStrava**  
+App to create dashboard and predictions based on data from Strava API.
 
-🔗 [Repository Link](https://github.com/jan2134/repo2)
+🔗 [Repository Link](https://github.com/Jan2134/MyPremiumStrava)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**📈 Project Name #3**  
-Short description placeholder.  
+**📈 PythonForDataScience**  
+In this workbook we dealt with the Airbnb bookings from Amsterdam.  
 
-🔗 [Repository Link](https://github.com/jan2134/repo3)
+🔗 [Repository Link](https://github.com/Jan2134/PythonForDataScience)
 
 </td>
 <td width="50%">
 
-**⚙️ Project Name #4**  
-Short description placeholder.  
+**⚙️ FinalProjectAdvancedPython**  
+I analyzed a dataset that deals with stress factors among students during an academic year. 
 
-🔗 [Repository Link](https://github.com/jan2134/repo4)
+🔗 [Repository Link](https://github.com/Jan2134/FinalProjectAdvancedPython)
 
 </td>
 </tr>
