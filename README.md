@@ -18,7 +18,6 @@ I am particularly interested in how data infrastructure, financial logic, and op
 ## 🔨 What I Build
 
 Below are selected repositories.  
-(Descriptions intentionally left open — I’ll document each project directly in the repo.)
 
 <table>
 <tr>
